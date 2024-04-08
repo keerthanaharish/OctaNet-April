@@ -1,0 +1,20 @@
+/* Custom CSS styles */
+body {
+    padding-top: 56px; /* Adjust according to navbar height */
+  }
+  
+  section {
+    padding: 60px 0;
+  }
+  
+  footer {
+    padding: 20px 0;
+    background-color: #f8f9fa;
+  }
+  
+  @media (max-width: 991.98px) {
+    body {
+      padding-top: 68px; /* Adjust according to navbar height */
+    }
+  }
+  
